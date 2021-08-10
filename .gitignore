@@ -1,0 +1,8 @@
+# Project exclude paths
+/ch01-springmvc-hello/target/
+/ch02-requestMapping/target/
+/ch03-receiveparam/target/
+/ch04-return/target/
+/ch05-urlparnter/target/
+/ch06-ssm/target/
+/ch07-intercepter/target/
